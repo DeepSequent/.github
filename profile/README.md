@@ -10,7 +10,7 @@ We do
 - model checking
 - cybersecurity analysis
 
-for USDOD customers.
+with focus in the defense and aerospace arenas.
 
 Write to "contact" at our domain for more information!
 
