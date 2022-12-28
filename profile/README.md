@@ -5,7 +5,8 @@
 We do
 
 - machine learning
-- model interpretation & verification
+- model interpretation
+- model verification
 - binary analysis
 - model checking
 - cybersecurity analysis
