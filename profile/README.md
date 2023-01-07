@@ -10,6 +10,7 @@ We do
 - binary analysis
 - model checking
 - cybersecurity analysis
+- edge deployment
 
 with focus in the defense and aerospace arenas.
 
