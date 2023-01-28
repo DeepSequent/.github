@@ -2,17 +2,7 @@
 
 *computing for critical systems*
 
-We do
-
-- machine learning
-- model interpretation
-- model verification
-- binary analysis
-- model checking
-- cybersecurity analysis
-- edge deployment
-
-with focus in the defense and aerospace arenas.
+We do DevSecOps, AI/ML and Formal Methods in Defense and Aerospace.
 
 Write to "contact" at our domain for more information!
 
