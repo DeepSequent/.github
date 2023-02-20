@@ -1,3 +1,3 @@
 # DeepSequent
 
-*XAI for Physical and Life Sciences*
+*XAI for Life Sciences*
