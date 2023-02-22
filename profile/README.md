@@ -1,3 +1,3 @@
 # DeepSequent
 
-*XAI for Life Sciences*
+*XAI for Biotech*
