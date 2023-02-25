@@ -1,3 +1,3 @@
 # DeepSequent
 
-*XAI for Biotech*
+*computing for critical systems*
